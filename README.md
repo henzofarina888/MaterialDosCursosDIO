@@ -1,2 +1,2 @@
-# Dio Desafio GitHub
-Desafio da digital inovation one, sobre repositorio no GitHub.
+# Desafio de projeto de Git/GitHub.
+Desafio da DIO, sobre repositorio no GitHub.
